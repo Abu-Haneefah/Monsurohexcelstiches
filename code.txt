@@ -1,0 +1,10 @@
+color scheme
+primary - for header
+#201658
+
+secondary color - for the announcement
+#7E57C2
+#FFEBF2 for the shimmer
+
+Tetiary color - for the footer and button
+#009688 
